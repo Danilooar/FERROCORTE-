@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\source\\repos\\FerroCorte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C16807CC-6DBF-4D2C-AE93-7B77BC4DCB3F}|FerroCorte\\FerroCorte.csproj|c:\\users\\erick\\source\\repos\\ferrocorte\\ferrocorte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16807CC-6DBF-4D2C-AE93-7B77BC4DCB3F}|FerroCorte\\FerroCorte.csproj|solutionrelative:ferrocorte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16807CC-6DBF-4D2C-AE93-7B77BC4DCB3F}|FerroCorte\\FerroCorte.csproj|c:\\users\\erick\\source\\repos\\ferrocorte\\ferrocorte\\ferrocorte.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C16807CC-6DBF-4D2C-AE93-7B77BC4DCB3F}|FerroCorte\\FerroCorte.csproj|solutionrelative:ferrocorte\\ferrocorte.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FerroCorte",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\FerroCorte\\FerroCorte\\FerroCorte.csproj",
+              "RelativeDocumentMoniker": "FerroCorte\\FerroCorte.csproj",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\FerroCorte\\FerroCorte\\FerroCorte.csproj",
+              "RelativeToolTip": "FerroCorte\\FerroCorte.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T03:36:59.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\FerroCorte\\FerroCorte\\Program.cs",
+              "RelativeDocumentMoniker": "FerroCorte\\Program.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\FerroCorte\\FerroCorte\\Program.cs",
+              "RelativeToolTip": "FerroCorte\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:27:24.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
